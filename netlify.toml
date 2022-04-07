@@ -1,0 +1,2 @@
+[build]
+  pcommand = "npm run build"
